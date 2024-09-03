@@ -3,9 +3,9 @@ Implementation of this article:
 [Recognition of Handwritten Digit using Convolutional Neural Network in Python with Tensorflow and Comparison of Performance for Various Hidden Layers](https://ieeexplore.ieee.org/abstract/document/8975496)
 With [MNIST Dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
 
-## Uploaded projects include:
+## Uploaded project include:
 - Reference Paper
-- Implementatio
+- Implementation
 - Figures:
   
 1             |  2
